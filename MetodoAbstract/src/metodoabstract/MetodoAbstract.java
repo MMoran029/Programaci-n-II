@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package proyecto_battleshipdinamico_22541052;
+package metodoabstract;
 
 /**
  *
  * @author mjosu
  */
-public class Proyecto_BattleshipDinamico_22541052 {
+public class MetodoAbstract {
 
     /**
      * @param args the command line arguments
