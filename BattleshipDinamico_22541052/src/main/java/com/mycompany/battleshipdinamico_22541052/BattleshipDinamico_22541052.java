@@ -11,6 +11,6 @@ package com.mycompany.battleshipdinamico_22541052;
 public class BattleshipDinamico_22541052 {
 
     public static void main(String[] args) {
-        Menu obj  = new Menu();
+        new MenuL();
     }
 }
